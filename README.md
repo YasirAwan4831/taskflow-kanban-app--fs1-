@@ -213,7 +213,7 @@ npm run dev
 
 ```json
 POST /api/tasks
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+Authorization: Bearer -----------...
 
 {
   "title": "Design the landing page",
@@ -430,9 +430,9 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 <br/>
 
-**Made & Developed with ❤️ by [Yasir Awan](https://github.com/YasirAwan4831)**
+**Made & Developed with ❤️ by [Yasir Awan](https://yasirawan4831.github.io/futuristic-links-dashboard/)**
 
-*Built for Teyzix Core Internship · Full Stack Engineering · 2026*
+*Built for Teyzix Core Internship · Full Stack Eng · 2026*
 
 <br/>
 

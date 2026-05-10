@@ -1,0 +1,13 @@
+{
+  "name": "taskflow-kanban-app",
+  "version": "1.0.0",
+  "description": "Full-stack MERN Kanban Task Management App",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "dev": "start cmd /k npm run server && start cmd /k npm run client",
+    "install:all": "cd server && npm install && cd ../client && npm install"
+  },
+  "author": "Yasir Awan",
+  "license": "MIT"
+}
